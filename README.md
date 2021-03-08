@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Snow Effect
+follow tutorial from [YouTube](https://youtu.be/8eyAoBBucHk)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
